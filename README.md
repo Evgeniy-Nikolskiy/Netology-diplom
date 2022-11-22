@@ -15,9 +15,11 @@
 3. Репозиторий с конфигурацией ansible  
 https://github.com/Evgeniy-Nikolskiy/kubespray-netology/blob/master/inventory/diplom/inventory.ini
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/1.jpg)
-4. https://gitlab.com/OlegAnanyev/devops-nginx-app/-/tree/master  
+4. Репозиторий с Dockerfile тестового приложения и ссылка на собранный docker image   
+   https://gitlab.com/OlegAnanyev/devops-nginx-app/-/tree/master  
    https://hub.docker.com/repository/docker/weiruk/nginx-app-diplom  
-5. https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
+5. Репозиторий с конфигурацией Kubernetes кластера.  
+https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
 6. Тестовое приложение и веб интерфейс Grafana
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/2.jpg)
 
