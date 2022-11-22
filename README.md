@@ -10,4 +10,15 @@
 # Ответы
 
 1. Репозиторий с конфигурационными файлами Terraform - https://github.com/Evgeniy-Nikolskiy/diplom-terraform
-2. 
+2. Пример pull request с комментариями созданными atlantis'ом   
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/atlantis.jpg)
+3. Репозиторий с конфигурацией ansible  
+https://github.com/Evgeniy-Nikolskiy/kubespray-netology/blob/master/inventory/diplom/inventory.ini
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/1.jpg)
+4. https://gitlab.com/OlegAnanyev/devops-nginx-app/-/tree/master  
+   https://hub.docker.com/repository/docker/weiruk/nginx-app-diplom  
+5. https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
+6. Тестовое приложение и веб интерфейс Grafana
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/2.jpg)
+
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/3.jpg)
