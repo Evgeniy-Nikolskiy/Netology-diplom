@@ -16,7 +16,7 @@
 https://github.com/Evgeniy-Nikolskiy/kubespray-netology/blob/master/inventory/diplom/inventory.ini
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/1.jpg)
 4. Репозиторий с Dockerfile тестового приложения и ссылка на собранный docker image   
-   https://gitlab.com/OlegAnanyev/devops-nginx-app/-/tree/master  
+   https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom  
    https://hub.docker.com/repository/docker/weiruk/nginx-app-diplom  
 5. Репозиторий с конфигурацией Kubernetes кластера.  
 https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
