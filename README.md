@@ -9,20 +9,41 @@
 
 # Ответы
 
-1. Репозиторий с конфигурационными файлами Terraform  https://github.com/Evgeniy-Nikolskiy/diplom-terraform   
-скрин подгрузки бакета в Object Storage ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket.png)  
-2. Пример pull request с комментариями созданными atlantis'ом   
+## 1. Репозиторий с конфигурационными файлами Terraform  
+
+https://github.com/Evgeniy-Nikolskiy/diplom-terraform   
+скрин подгрузки бакета в Object Storage:
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket.png)  
+## 2. Пример pull request с комментариями созданными atlantis'ом  
+
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/atlantis.jpg)
-3. Репозиторий с конфигурацией ansible  
+## 3. Репозиторий с конфигурацией ansible  
+
 https://github.com/Evgeniy-Nikolskiy/kubespray-netology/blob/master/inventory/diplom/inventory.ini
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/1.jpg)
-4. Репозиторий с Dockerfile тестового приложения и ссылка на собранный docker image
-![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/5.png)   
-   https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom  
-   https://hub.docker.com/repository/docker/weiruk/nginx-app-diplom  
-5. Репозиторий с конфигурацией Kubernetes кластера.  
+
+## 4. Репозиторий на Gitlab для приложения
+ Репозиторий - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/tree/main
+
+Сборка и деплой приложения осуществляется с помощью kaniko и gitlab runner и for Kubernates
+
+Реджистри - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/container_registry  
+
+Манифест - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/nginx-app-diplom.yaml
+
+
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/5.png)    
+  
+## 5. Репозиторий с манифестом для мониторинга Kubernetes кластера.  
 https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
-6. Тестовое приложение и веб интерфейс Grafana
+
+
+## 6. Тестовое приложение и веб интерфейс Grafana
+
+#### Доступ к тестовому приложению: http://84.201.174.101
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/2.jpg)
 
+#### Доступ к графане
+Логин: admin
+Пароль: admin
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/3.jpg)
