@@ -25,7 +25,7 @@ https://github.com/Evgeniy-Nikolskiy/kubespray-netology/blob/master/inventory/di
 ## 4. Репозиторий на Gitlab для приложения
  Репозиторий - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/tree/main
 
-Сборка и деплой приложения осуществляется с помощью kaniko и gitlab runner и for Kubernates
+Сборка и деплой приложения осуществляется с помощью kaniko и gitlab runner for Kubernates
 
 Реджистри - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/container_registry  
 
