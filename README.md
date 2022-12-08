@@ -41,10 +41,10 @@ https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
 
 ## 6. Тестовое приложение и веб интерфейс Grafana
 
-#### Доступ к тестовому приложению: http://84.201.174.101:32062/
+#### Доступ к тестовому приложению: http://51.250.76.154:32616
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/2.jpg)
 
-#### Доступ к графане http://84.201.174.101:3000
+#### Доступ к графане http://51.250.76.154:3000
 Логин: admin  
 Пароль: admin123  
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/3.jpg)
