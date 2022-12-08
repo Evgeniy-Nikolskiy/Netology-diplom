@@ -46,5 +46,5 @@ https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
 
 #### Доступ к графане http://84.201.174.101:3000
 Логин: admin  
-Пароль: admin  
+Пароль: admin123  
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/3.jpg)
