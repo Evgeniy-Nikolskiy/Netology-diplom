@@ -31,7 +31,6 @@ https://github.com/Evgeniy-Nikolskiy/kubespray-netology/blob/master/inventory/di
 
 Манифест - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/nginx-app-diplom.yaml
 
-
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/5.png)   
 
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/kube.png)
@@ -45,7 +44,7 @@ https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
 #### Доступ к тестовому приложению: http://84.201.174.101
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/2.jpg)
 
-#### Доступ к графане
+#### Доступ к графане http://84.201.174.101:3000
 Логин: admin  
 Пароль: admin  
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/3.jpg)
