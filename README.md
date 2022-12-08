@@ -9,7 +9,8 @@
 
 # Ответы
 
-1. Репозиторий с конфигурационными файлами Terraform - https://github.com/Evgeniy-Nikolskiy/diplom-terraform
+1. Репозиторий с конфигурационными файлами Terraform  https://github.com/Evgeniy-Nikolskiy/diplom-terraform   
+скрин подгрузки бакета в Object Storage ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket.png)  
 2. Пример pull request с комментариями созданными atlantis'ом   
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/atlantis.jpg)
 3. Репозиторий с конфигурацией ansible  
