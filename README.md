@@ -32,7 +32,9 @@ https://github.com/Evgeniy-Nikolskiy/kubespray-netology/blob/master/inventory/di
 Манифест - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/nginx-app-diplom.yaml
 
 
-![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/5.png)    
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/5.png)   
+
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/kube.png)
   
 ## 5. Репозиторий с манифестом для мониторинга Kubernetes кластера.  
 https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
@@ -44,6 +46,6 @@ https://github.com/Evgeniy-Nikolskiy/kubernetes-monitoring
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/2.jpg)
 
 #### Доступ к графане
-Логин: admin
-Пароль: admin
+Логин: admin  
+Пароль: admin  
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/3.jpg)
