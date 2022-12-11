@@ -4,7 +4,7 @@
 
 # Ответы
 
-### сборка с тегом latest
+### 1. сборка с тегом latest
 
 Проблема с отсутствующим тегом была решена с помощью добавления конструкции:  
 
@@ -17,7 +17,7 @@ https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/.gitlab
 
 Процесс сборки - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/jobs/3456425487   
 
-### Доступность приложения
+### 2. Доступность приложения
 
 Доступность приложения я организовал с помощью NodePort.  
 Данный способ был выбран просто в целях удобства. Нет необходимости танцевать с бубном вокруг port-forward или kubectl proxy  
@@ -26,5 +26,5 @@ http://51.250.4.10:30005/
 
 https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/nginx-app-diplom.yaml#L27
 
-### Хранение в Object Storage файла конфигурации tfstate
+### 3. Хранение в Object Storage файла конфигурации tfstate
 https://github.com/Evgeniy-Nikolskiy/diplom-terraform-kube/blob/main/main.tf
