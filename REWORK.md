@@ -29,8 +29,12 @@ https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/nginx-a
 ### 3. Хранение в Object Storage файла конфигурации tfstate
 https://github.com/Evgeniy-Nikolskiy/diplom-terraform-kube/blob/main/main.tf
 
-
+Конфигурация развернута с помощью Терраформ:  
+https://github.com/Evgeniy-Nikolskiy/diplom-terraform-kube с записаным бакетом в Object Storage   
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-main.png)  
+Изначальный вид пустой директории в которая будет использовать tfstate из Object Storage соседней директории  
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote.png)  
+После ввода terraform apply добавляется новая виртуальная машина на основе конфигурации из tfstate  
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote2.png)  
+Собственно само название новой виртуальной машины успешно создано.   
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote3.png)
