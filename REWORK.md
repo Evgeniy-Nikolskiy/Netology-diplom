@@ -37,5 +37,5 @@ https://github.com/Evgeniy-Nikolskiy/diplom-terraform-kube-remote
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote.png)  
 После ввода terraform apply добавляется новая виртуальная машина на основе конфигурации из tfstate  
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote2.png)  
-Собственно само название новой виртуальной машины успешно создано.   
+Собственно сама виртуальная машина успешно создано.   
 ![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote3.png)
