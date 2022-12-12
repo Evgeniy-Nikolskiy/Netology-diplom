@@ -15,6 +15,8 @@
 
 https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/.gitlab-ci.yml  
 
+При выполнении деплоя переменная принимает указанный тег:  
+https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/jobs/3456426511  
 Процесс сборки - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/jobs/3456425487   
 
 ### 2. Доступность приложения
