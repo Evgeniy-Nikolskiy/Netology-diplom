@@ -14,11 +14,10 @@
           CI_COMMIT_TAG: "latest"
 
 https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/.gitlab-ci.yml  
-
-При выполнении деплоя переменная принимает указанный тег:  
-https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/jobs/3456426511  
+ 
 Процесс сборки - https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/jobs/3456425487   
-
+При выполнении деплоя переменная принимает указанный тег:  
+https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/jobs/3456426511 
 ### 2. Доступность приложения
 
 Доступность приложения я организовал с помощью NodePort.  
