@@ -28,3 +28,9 @@ https://gitlab.com/devops-evgeniy-nikolskiy/nginx-app-diplom/-/blob/main/nginx-a
 
 ### 3. Хранение в Object Storage файла конфигурации tfstate
 https://github.com/Evgeniy-Nikolskiy/diplom-terraform-kube/blob/main/main.tf
+
+
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-main.png)  
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote.png)  
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote2.png)  
+![](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/Netology-diplom/main/assets/bucket-remote3.png)
